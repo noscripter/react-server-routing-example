@@ -19,7 +19,7 @@
     "browserify": "^12.0.1",
     "literalify": "^0.4.0",
     "react": "^0.14.2",
-    "react-dom": "^0.14.2"
+    "react-dom": "^16.0.1"
   },
   "devDependencies": {
     "dynalite": "^0.16.0"
